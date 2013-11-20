@@ -5,7 +5,7 @@ Overview
 
 This application provides an example of form processing with the following features:
 
-  * Play Version 2.2
+  * Play Version 2.2 
   * [WebJars](http://www.webjars.org/) to download dependencies.
   * [Twitter Bootstrap 3.0.0](http://getbootstrap.com/).
   * Individual Twitter Bootstrap [helper templates](https://github.com/ics-software-engineering/play-example-form/tree/master/app/views/bootstrap3) for each form control.
