@@ -184,4 +184,8 @@ Acknowledgements
 This example is a descendent of the original [play-form-kludge](https://github.com/philipmjohnson/play-form-kludge/tree/original)
 and [Jason Pearson](https://github.com/kaeawc)'s [very helpful improvements](https://github.com/philipmjohnson/play-form-kludge).
 
-    
+
+ER Diagram
+----------
+
+[<img src="https://raw.github.com/ics-software-engineering/play-example-form/master/doc/ERD-PlayForms.png" width="400">]
