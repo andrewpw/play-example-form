@@ -187,5 +187,6 @@ and [Jason Pearson](https://github.com/kaeawc)'s [very helpful improvements](htt
 
 ER Diagram
 ----------
+An ER diagram that models this play-example-form.  For this I assumed that a student could possibly not have a declared major and could also possibly have multiple majors.  I also assumed that new students might not have a gpa but that all students would have a grade level.
 
-[<img src="https://raw.github.com/andrewpw/play-example-form/master/doc/ERD-PlayForms.png" width="400">]
+<img src="https://raw.github.com/andrewpw/play-example-form/master/doc/ERD-PlayForms2.png" width="400">
