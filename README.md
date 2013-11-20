@@ -188,4 +188,4 @@ and [Jason Pearson](https://github.com/kaeawc)'s [very helpful improvements](htt
 ER Diagram
 ----------
 
-[<img src="https://raw.github.com/ics-software-engineering/play-example-form/master/doc/ERD-PlayForms.png" width="400">]
+[<img src="https://raw.github.com/andrewpw/play-example-form/master/doc/ERD-PlayForms.png" width="400">]
